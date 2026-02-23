@@ -27,4 +27,7 @@ Businesses contact me after:
 
 The result is fewer missed opportunities and more closed revenue without hiring staff.
 
+Official profiles
+
 LinkedIn: https://www.linkedin.com/in/donald-scott-b7bb9a142/
+Skool: https://www.skool.com/@donald-scott-1563
