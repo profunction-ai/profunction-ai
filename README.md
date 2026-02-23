@@ -31,3 +31,4 @@ Official profiles
 
 LinkedIn: https://www.linkedin.com/in/donald-scott-b7bb9a142/
 Skool: https://www.skool.com/@donald-scott-1563
+X: https://x.com/donaldscottai
