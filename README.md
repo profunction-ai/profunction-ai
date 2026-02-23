@@ -1,52 +1,30 @@
-ProFunction AI
+# ProFunction AI
 
-AI & Automation Systems Builder
-Founder: Donald Scott
-Location: Glasgow, Scotland, United Kingdom
+Automation Systems & AI Workflow Infrastructure
 
-I design and implement AI-driven automation systems that stop businesses losing leads and time to manual admin.
+I design and implement automation systems that stop businesses losing leads and time to manual admin.
 
-What I Build
+### What I build
 
-Lead capture and routing systems
+• Lead capture and routing systems
+• Automated follow-up sequences
+• CRM automation and pipeline management
+• AI enquiry qualification
+• Internal operations automation
 
-AI enquiry classification workflows
+### Tools
 
-CRM automation and pipeline management
+n8n • Airtable • APIs • Webhooks • AI Agents • CRM integrations
 
-Automated follow-up infrastructure
+### Typical problems I solve
 
-n8n-based workflow orchestration
+Businesses contact me after:
 
-Revenue-focused automation systems
+* missed enquiries
+* slow responses
+* spreadsheets running operations
+* disconnected software tools
 
-Typical Problems I Solve
+The result is fewer missed opportunities and more closed revenue without hiring staff.
 
-Leads sitting in inboxes without response
-
-Manual data entry between tools
-
-Disconnected CRM systems
-
-Missed follow-ups costing revenue
-
-Slow response times to new enquiries
-
-Technologies
-
-n8n
-
-Airtable
-
-OpenAI
-
-Webhook integrations
-
-CRM systems
-
-Automation APIs
-
-About ProFunction AI
-
-ProFunction AI builds deterministic automation systems for service businesses and revenue-driven teams.
-The focus is simple: fewer missed opportunities, faster responses, and more closed revenue without hiring additional staff.
+LinkedIn: https://www.linkedin.com/in/donald-scott-b7bb9a142/
